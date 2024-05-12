@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projekt___Půjčovna_Automobilů
+namespace Projekt___Půjčovna_Automobilů //zatim funguje jen s autama
 {
     internal class Soubor
     {
