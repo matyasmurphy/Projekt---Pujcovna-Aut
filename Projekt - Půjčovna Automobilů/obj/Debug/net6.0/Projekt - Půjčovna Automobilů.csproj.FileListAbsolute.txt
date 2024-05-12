@@ -1,0 +1,14 @@
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\bin\Debug\net6.0\Projekt - Půjčovna Automobilů.exe
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\bin\Debug\net6.0\Projekt - Půjčovna Automobilů.deps.json
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\bin\Debug\net6.0\Projekt - Půjčovna Automobilů.runtimeconfig.json
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\bin\Debug\net6.0\Projekt - Půjčovna Automobilů.dll
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\bin\Debug\net6.0\Projekt - Půjčovna Automobilů.pdb
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.AssemblyInfoInputs.cache
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.AssemblyInfo.cs
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.csproj.CoreCompileInputs.cache
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.dll
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\refint\Projekt - Půjčovna Automobilů.dll
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.pdb
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\Projekt - Půjčovna Automobilů.genruntimeconfig.cache
+C:\Users\Murphy Matyáš Josef\Desktop\VisualStudio\Projekt - Půjčovna Automobilů\Projekt - Půjčovna Automobilů\obj\Debug\net6.0\ref\Projekt - Půjčovna Automobilů.dll
