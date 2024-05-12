@@ -1,19 +1,1 @@
-Funkcnost programu:
-Auto:
-•Pridat auto (vin(random generovane), spz(random generovane), vyrobce, model, rokVyroby, cenaZaDen, dostupnost, stavTachometru(random generovane po kazdem vraceni), pocetMist).
-•Vypsat auta.
-•Odebrat auto.
-Zakaznik:
-•Pridat zakaznika(id(random generovane), jmeno, prijmeni, datumNarozeni, vek, kontakt(tel. cislo, random generovane), pujceneAuto, vinPujcenehoAuta, datumPujceni, datumVraceni, utracenePenize).
-•Vypsat zakazniky.
-•Odebrat zakaznika.
 
-Třídy a metody:
-•Auto
-•Zakaznik
-•Garaz - Pridat, odebrat a vypsat auta.
-•Zakaznici - Pridat, odebrat a vypsat zakazniky. Spocitani veku.
-•Pujcka - Pujcit a vratit auto.
-
-Get, set:
-•pouzivam u vsech vlastnostech v tride Auto,Zakaznik a Pujcka get a set
