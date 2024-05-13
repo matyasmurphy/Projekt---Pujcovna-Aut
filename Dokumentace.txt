@@ -7,6 +7,9 @@ Zakaznik:
 •Pridat zakaznika(id(random generovane), jmeno, prijmeni, datumNarozeni, vek, kontakt(tel. cislo, random generovane), pujceneAuto, vinPujcenehoAuta, datumPujceni, datumVraceni, utracenePenize).
 •Vypsat zakazniky.
 •Odebrat zakaznika.
+Soubor:
+•Ulozit do souboru
+•Nacist ze souboru
 
 Třídy a metody:
 •Auto
@@ -14,6 +17,7 @@ Třídy a metody:
 •Garaz - Pridat, odebrat a vypsat auta.
 •Zakaznici - Pridat, odebrat a vypsat zakazniky. Spocitani veku.
 •Pujcka - Pujcit a vratit auto.
+Soubor - Ulozit a nacist do souboru.
 
 Get, set:
 •pouzivam u vsech vlastnostech v tride Auto,Zakaznik a Pujcka get a set
